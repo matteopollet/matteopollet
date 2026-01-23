@@ -1,8 +1,5 @@
 # Hi there, I'm Mattéo 👋
 
-<p align="center">
-  <a href="images/banner.png" target="_blank" rel="noreferrer"><img src="images/banner.png" alt="my banner"></a>
-</p>
 
 <h3 align="center">Computer Science Student & Tech Enthusiast 👨‍💻</h3>
 
