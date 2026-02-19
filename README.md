@@ -4,11 +4,7 @@
 <h3 align="center">Computer Science Student & Tech Enthusiast 👨‍💻</h3>
 
 <p align="center">
-  I'm a first-year Computer Science student at École des Mines d’Alès, currently in alternance at Capgemini. Dynamic and rigorous, I'm bilingual in French and English, with a passion for software development and problem-solving.
-</p>
-
-<p align="center">
-  Upcoming: A 9-week internship in Prague to dive deeper into international tech projects.
+  I'm a second-year Computer Science student at École des Mines d’Alès, currently in alternance at Capgemini. Dynamic and rigorous, I'm bilingual in French and English, with a passion for software development and problem-solving.
 </p>
 
 <h2 align="center">🤝 Connect with Me</h2>
